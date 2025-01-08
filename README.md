@@ -1,2 +1,2 @@
 # controle-de-imoveis
-app para controle de imóveis 
+app será desenvolvido em React native para controle de imóveis
